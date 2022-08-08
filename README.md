@@ -8,7 +8,7 @@ Done ✅
 Start your Bot in Telegram & Enjoy
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Shashwat-Shukla/mdisk-ultra-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/sayandhar007/jsjjdxjj)
 
 ##### Required Variables
 
